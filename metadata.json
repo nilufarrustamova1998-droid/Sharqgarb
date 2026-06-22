@@ -1,0 +1,6 @@
+{
+  "name": "Sharq va G'arb ta'limi",
+  "description": "Sharqiy va G'arbiy boshlang'ich ta'lim usullarini o'zida jamlagan innovatsion ta'lim platformasi. Interaktiv abakus, STEM labaratoriyasi, Nasreddin va Ezop ertaklari bilan qiziqarli testlar hamda qiziqarli faktlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
